@@ -3,7 +3,7 @@
     <title>Dmunozv04</title>
     <link href="https://dmunozv04.github.io/feed.xml" rel="self" />
     <link href="https://dmunozv04.github.io" />
-    <updated>2019-10-26T11:05:59+02:00</updated>
+    <updated>2019-10-26T11:09:41+02:00</updated>
     <author>
         <name>David</name>
     </author>
@@ -17,17 +17,15 @@
         <link href="https://dmunozv04.github.io/resumen-literatura-primer-examen.html"/>
         <id>https://dmunozv04.github.io/resumen-literatura-primer-examen.html</id>
 
-        <updated>2019-10-26T11:05:54+02:00</updated>
+        <updated>2019-10-26T11:09:38+02:00</updated>
             <summary>
                 <![CDATA[
-                    Aquí tenéis el resumen. Usadlo y buena suerte en el examen. 
+                    Aquí tenéis el resumen. Usadlo y buena suerte en el examen.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="dmunozv04.github.io/files/Literatura-examen-1" target="_blank" rel="noopener noreferrer" title="Resumen aquí">Aquí</a> tenéis el resumen. Usadlo y buena suerte en el examen.</p>
-<p> </p>
-<figure class="post__image"><img src="undefined" alt=""></figure>
+                <p><a href="../../../../../files/Literatura-examen-1" title="Resumen aquí" target="_blank" rel="noopener noreferrer">Aquí</a> tenéis el resumen. Usadlo y buena suerte en el examen.</p>
             ]]>
         </content>
     </entry>
