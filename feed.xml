@@ -3,10 +3,36 @@
     <title>Dmunozv04</title>
     <link href="https://dmunozv04.github.io/feed.xml" rel="self" />
     <link href="https://dmunozv04.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2019-10-26T10:42:59+02:00</updated>
     <author>
         <name>David</name>
     </author>
     <id>https://dmunozv04.github.io</id>
 
+    <entry>
+        <title>Bienvenido a la página</title>
+        <author>
+            <name>David</name>
+        </author>
+        <link href="https://dmunozv04.github.io/bienvenido-a-la-pagina.html"/>
+        <id>https://dmunozv04.github.io/bienvenido-a-la-pagina.html</id>
+
+        <updated>2019-10-26T10:42:13+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hola a todos y bienvenidos a mi página web en la que colgaré:resúmenesapuntesinformación interesante.Muchas gracias y disfrutad del contenido
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hola a todos y bienvenidos a mi página web en la que colgaré:</p>
+<ul>
+<li>resúmenes</li>
+<li>apuntes</li>
+<li>información interesante.</li>
+</ul>
+<hr>Muchas gracias y disfrutad del contenido
+            ]]>
+        </content>
+    </entry>
 </feed>
