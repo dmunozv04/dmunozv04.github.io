@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://dmunozv04.github.io/resumen-literatura-primer-examen-2.html",
+            "url": "https://dmunozv04.github.io/resumen-literatura-primer-examen-2.html",
+            "title": "Resumen literatura examen final",
+            "summary": "Aquí tenéis el resumen. Usadlo y buena suerte en el examen.",
+            "content_html": "<p><a href=\"https://github.com/dmunozv04/files/raw/master/Literatura%20examen%202.pdf\" title=\"Resumen aquí\">Aquí</a> tenéis el resumen. Usadlo y buena suerte en el examen.</p>",
+            "author": {
+                "name": "David"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-13T20:07:32+01:00",
+            "date_modified": "2019-11-13T21:35:39+01:00"
+        },
+        {
             "id": "https://dmunozv04.github.io/resumen-literatura-primer-examen.html",
             "url": "https://dmunozv04.github.io/resumen-literatura-primer-examen.html",
             "title": "Resumen literatura primer examen",

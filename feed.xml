@@ -3,12 +3,32 @@
     <title>Dmunozv04</title>
     <link href="https://dmunozv04.github.io/feed.xml" rel="self" />
     <link href="https://dmunozv04.github.io" />
-    <updated>2019-11-13T20:09:57+01:00</updated>
+    <updated>2019-11-13T23:06:39+01:00</updated>
     <author>
         <name>David</name>
     </author>
     <id>https://dmunozv04.github.io</id>
 
+    <entry>
+        <title>Resumen literatura examen final</title>
+        <author>
+            <name>David</name>
+        </author>
+        <link href="https://dmunozv04.github.io/resumen-literatura-primer-examen-2.html"/>
+        <id>https://dmunozv04.github.io/resumen-literatura-primer-examen-2.html</id>
+
+        <updated>2019-11-13T21:35:39+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Aquí tenéis el resumen. Usadlo y buena suerte en el examen.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://github.com/dmunozv04/files/raw/master/Literatura%20examen%202.pdf" title="Resumen aquí">Aquí</a> tenéis el resumen. Usadlo y buena suerte en el examen.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Resumen literatura primer examen</title>
         <author>
