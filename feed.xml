@@ -3,7 +3,7 @@
     <title>Dmunozv04</title>
     <link href="https://dmunozv04.github.io/feed.xml" rel="self" />
     <link href="https://dmunozv04.github.io" />
-    <updated>2020-01-18T17:55:23+01:00</updated>
+    <updated>2020-01-19T18:58:39+01:00</updated>
     <author>
         <name>David</name>
     </author>
@@ -16,17 +16,20 @@
         </author>
         <link href="https://dmunozv04.github.io/esquema-literatura-parcial-2a-evaluacion.html"/>
         <id>https://dmunozv04.github.io/esquema-literatura-parcial-2a-evaluacion.html</id>
+            <category term="Lengua"/>
+            <category term="Esquema"/>
 
-        <updated>2020-01-18T17:55:19+01:00</updated>
+        <updated>2020-01-19T18:58:10+01:00</updated>
             <summary>
                 <![CDATA[
-                    Esta vez he decidido cambiar el formato. Por aquí os dejo el esquema en 3 formas diferentes: Link ​Opciones PDF: 1 2
+                    Esta vez he decidido cambiar el formato. Por aquí os dejo el esquema en 3 formas diferentes: Link ​Opciones PDF: 1 2 Opción para fácil impresión
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Esta vez he decidido cambiar el formato. Por aquí os dejo el esquema en 3 formas diferentes: <a href="https://my.mindnode.com/xHJqtfsmtKJQpp6yGgx34yUqafRdxa8uenUWwsZh" target="_blank" rel="noopener noreferrer">Link</a></p>
 <p><iframe width="700" height="500" style="border: 1px solid #cccccc; width: 700px; height: 500px;" src="https://my.mindnode.com/xHJqtfsmtKJQpp6yGgx34yUqafRdxa8uenUWwsZh/em#156,283,-9" iframe=""><span id="mce_marker" >​</span></iframe>Opciones PDF: <a href="../../../../../media/files/Literatura%20Examen%203.pdf" target="_blank" rel="noopener noreferrer">1</a><a href="../../../../../media/files/Literatura%20Examen%203.pdf"></a>       <a href="../../../../../media/files/Literatura%20Examen%203(tipo%202).pdf" target="_blank" rel="noopener noreferrer">2</a></p>
+<p><a href="../../../../../../media/files/Literatura%20Examen%203(tipo&amp;203)" target="_blank" rel="nofollow noopener noreferrer">Opción para fácil impresión</a></p>
             ]]>
         </content>
     </entry>
@@ -37,6 +40,8 @@
         </author>
         <link href="https://dmunozv04.github.io/resumenes-biologia-examen-2.html"/>
         <id>https://dmunozv04.github.io/resumenes-biologia-examen-2.html</id>
+            <category term="Esquema"/>
+            <category term="Biología"/>
 
         <updated>2019-11-20T21:56:06+01:00</updated>
             <summary>
@@ -66,6 +71,8 @@
         </author>
         <link href="https://dmunozv04.github.io/resumen-literatura-primer-examen-2.html"/>
         <id>https://dmunozv04.github.io/resumen-literatura-primer-examen-2.html</id>
+            <category term="Resumen"/>
+            <category term="Lengua"/>
 
         <updated>2019-11-13T21:35:39+01:00</updated>
             <summary>
@@ -86,6 +93,8 @@
         </author>
         <link href="https://dmunozv04.github.io/resumen-literatura-primer-examen.html"/>
         <id>https://dmunozv04.github.io/resumen-literatura-primer-examen.html</id>
+            <category term="Resumen"/>
+            <category term="Lengua"/>
 
         <updated>2019-11-02T12:39:39+01:00</updated>
             <summary>
