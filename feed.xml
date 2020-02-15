@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Dmunozv04</title>
-    <link href="https://dmunozv04.github.io/feed.xml" rel="self" />
-    <link href="https://dmunozv04.github.io" />
-    <updated>2020-02-12T20:57:15+01:00</updated>
+    <link href="https://dmunozv04.netlify.com/feed.xml" rel="self" />
+    <link href="https://dmunozv04.netlify.com" />
+    <updated>2020-02-15T13:02:58+01:00</updated>
     <author>
         <name>David</name>
     </author>
-    <id>https://dmunozv04.github.io</id>
+    <id>https://dmunozv04.netlify.com</id>
 
     <entry>
         <title>Resumen literatura Examen 4</title>
         <author>
             <name>David</name>
         </author>
-        <link href="https://dmunozv04.github.io/resumen-literatura-examen-4.html"/>
-        <id>https://dmunozv04.github.io/resumen-literatura-examen-4.html</id>
+        <link href="https://dmunozv04.netlify.com/resumen-literatura-examen-4.html"/>
+        <id>https://dmunozv04.netlify.com/resumen-literatura-examen-4.html</id>
             <category term="Resumen"/>
             <category term="Lengua"/>
 
@@ -36,8 +36,8 @@
         <author>
             <name>David</name>
         </author>
-        <link href="https://dmunozv04.github.io/esquemas-biologia-examen-3.html"/>
-        <id>https://dmunozv04.github.io/esquemas-biologia-examen-3.html</id>
+        <link href="https://dmunozv04.netlify.com/esquemas-biologia-examen-3.html"/>
+        <id>https://dmunozv04.netlify.com/esquemas-biologia-examen-3.html</id>
 
         <updated>2020-01-23T21:40:45+01:00</updated>
             <summary>
@@ -62,8 +62,8 @@
         <author>
             <name>David</name>
         </author>
-        <link href="https://dmunozv04.github.io/esquema-literatura-parcial-2a-evaluacion.html"/>
-        <id>https://dmunozv04.github.io/esquema-literatura-parcial-2a-evaluacion.html</id>
+        <link href="https://dmunozv04.netlify.com/esquema-literatura-parcial-2a-evaluacion.html"/>
+        <id>https://dmunozv04.netlify.com/esquema-literatura-parcial-2a-evaluacion.html</id>
             <category term="Lengua"/>
             <category term="Esquema"/>
 
@@ -86,22 +86,22 @@
         <author>
             <name>David</name>
         </author>
-        <link href="https://dmunozv04.github.io/resumenes-biologia-examen-2.html"/>
-        <id>https://dmunozv04.github.io/resumenes-biologia-examen-2.html</id>
+        <link href="https://dmunozv04.netlify.com/resumenes-biologia-examen-2.html"/>
+        <id>https://dmunozv04.netlify.com/resumenes-biologia-examen-2.html</id>
             <category term="Esquema"/>
             <category term="Biología"/>
 
         <updated>2019-11-20T21:56:06+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://dmunozv04.github.io/media/posts/4/genetica-e1554588448726.jpg" alt="" />
+                        <img src="https://dmunozv04.netlify.com/media/posts/4/genetica-e1554588448726.jpg" alt="" />
                     <p>Estos son los esquemas basados en los resúmenes del profesor José Antonio Gómez. </p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://dmunozv04.github.io/media/posts/4/genetica-e1554588448726.jpg" alt="" />
+                    <img src="https://dmunozv04.netlify.com/media/posts/4/genetica-e1554588448726.jpg" alt="" />
                 <p>Estos son los esquemas basados en los resúmenes del profesor José Antonio Gómez. </p>
 
 <p><a href="https://my.mindnode.com/xByxzNpiaaPo9ovejsKE1ahpwQ959x1BtAWgyYxX#87.7,43.0,2" title="Tema 3: Las leyes de la herencia" target="_blank" rel="noopener noreferrer">Tema 3:</a></p>
@@ -117,8 +117,8 @@
         <author>
             <name>David</name>
         </author>
-        <link href="https://dmunozv04.github.io/resumen-literatura-primer-examen-2.html"/>
-        <id>https://dmunozv04.github.io/resumen-literatura-primer-examen-2.html</id>
+        <link href="https://dmunozv04.netlify.com/resumen-literatura-primer-examen-2.html"/>
+        <id>https://dmunozv04.netlify.com/resumen-literatura-primer-examen-2.html</id>
             <category term="Resumen"/>
             <category term="Lengua"/>
 
@@ -139,8 +139,8 @@
         <author>
             <name>David</name>
         </author>
-        <link href="https://dmunozv04.github.io/resumen-literatura-primer-examen.html"/>
-        <id>https://dmunozv04.github.io/resumen-literatura-primer-examen.html</id>
+        <link href="https://dmunozv04.netlify.com/resumen-literatura-primer-examen.html"/>
+        <id>https://dmunozv04.netlify.com/resumen-literatura-primer-examen.html</id>
             <category term="Resumen"/>
             <category term="Lengua"/>
 
@@ -162,8 +162,8 @@
         <author>
             <name>David</name>
         </author>
-        <link href="https://dmunozv04.github.io/bienvenido-a-la-pagina.html"/>
-        <id>https://dmunozv04.github.io/bienvenido-a-la-pagina.html</id>
+        <link href="https://dmunozv04.netlify.com/bienvenido-a-la-pagina.html"/>
+        <id>https://dmunozv04.netlify.com/bienvenido-a-la-pagina.html</id>
 
         <updated>2019-10-26T10:42:13+02:00</updated>
             <summary>
