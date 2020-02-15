@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Dmunozv04",
     "description": "",
-    "home_page_url": "https://dmunozv04.netlify.com",
-    "feed_url": "https://dmunozv04.netlify.com/feed.json",
+    "home_page_url": "https://dmunozv04.github.io",
+    "feed_url": "https://dmunozv04.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "David"
     },
     "items": [
         {
-            "id": "https://dmunozv04.netlify.com/resumen-literatura-examen-4.html",
-            "url": "https://dmunozv04.netlify.com/resumen-literatura-examen-4.html",
+            "id": "https://dmunozv04.github.io/resumen-literatura-examen-4.html",
+            "url": "https://dmunozv04.github.io/resumen-literatura-examen-4.html",
             "title": "Resumen literatura Examen 4",
             "summary": "[{\"id\":1555941466744,\"type\":\"publii-header\",\"content\":\"El resumen está en progreso\",\"config\":{\"headingLevel\":2,\"textAlign\":\"left\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"customId\":false,\"id\":\"el-resumen-est-en-progreso\"}}},{\"id\":1581537300088,\"type\":\"publii-paragraph\",\"content\":\"Mientras tanto podéis acceder a los cambios en directo desde aquí. Cuando lo acabe, publicaré una versión descargable\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"},\"link\":{\"url\":\"https://www.icloud.com/pages/01Grsw3esu-QwNJMpIHelOkug\",\"noFollow\":true,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false,\"download\":false}}},{\"id\":1581537411636,\"type\":\"publii-separator\",\"content\":false,\"config\":{\"type\":\"dots\",\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1581537376718,\"type\":\"publii-paragraph\",\"content\":\"Muchas gracias\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
             "content_html": "[{\"id\":1555941466744,\"type\":\"publii-header\",\"content\":\"El resumen está en progreso\",\"config\":{\"headingLevel\":2,\"textAlign\":\"left\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"customId\":false,\"id\":\"el-resumen-est-en-progreso\"}}},{\"id\":1581537300088,\"type\":\"publii-paragraph\",\"content\":\"Mientras tanto podéis acceder a los cambios en directo desde <a href=\\\"https://www.icloud.com/pages/01Grsw3esu-QwNJMpIHelOkug\\\" rel=\\\"nofollow noopener\\\">aquí</a>. Cuando lo <mark>acabe</mark>, publicaré una versión descargable\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"},\"link\":{\"url\":\"https://www.icloud.com/pages/01Grsw3esu-QwNJMpIHelOkug\",\"noFollow\":true,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false,\"download\":false}}},{\"id\":1581537411636,\"type\":\"publii-separator\",\"content\":false,\"config\":{\"type\":\"dots\",\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1581537376718,\"type\":\"publii-paragraph\",\"content\":\"Muchas gracias\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
@@ -26,8 +26,8 @@
             "date_modified": "2020-02-12T20:57:11+01:00"
         },
         {
-            "id": "https://dmunozv04.netlify.com/esquemas-biologia-examen-3.html",
-            "url": "https://dmunozv04.netlify.com/esquemas-biologia-examen-3.html",
+            "id": "https://dmunozv04.github.io/esquemas-biologia-examen-3.html",
+            "url": "https://dmunozv04.github.io/esquemas-biologia-examen-3.html",
             "title": "Esquemas biología examen 3",
             "summary": "<p>Estos son los esquemas basados en los resúmenes del profesor José Antonio Gómez. </p>\n",
             "content_html": "<p>Estos son los esquemas basados en los resúmenes del profesor José Antonio Gómez. </p>\n\n<p><a href=\"https://my.mindnode.com/KTgJsLmkV4RKLNXknTLWgqioex1yAVVMnsWc2qcy\" title=\"Tema 5: La evolución de los seres vivos\" target=\"_blank\" rel=\"noopener noreferrer\">Tema 5:</a></p>\n<p><iframe width=\"800\" height=\"400\" src=\"https://my.mindnode.com/KTgJsLmkV4RKLNXknTLWgqioex1yAVVMnsWc2qcy/em#89,43,-9\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" onmousewheel=\"\"></iframe></p>\n<p><a href=\"https://my.mindnode.com/67QPYR2dgeY9jhF3XMgXhCyonCpVnvuPy4bPFPxn\" title=\"Tema 6: Conocer la Tierra y descubrir su pasado\" target=\"_blank\" rel=\"noopener noreferrer\">Tema 6:</a><iframe width=\"800\" height=\"400\" src=\"https://my.mindnode.com/67QPYR2dgeY9jhF3XMgXhCyonCpVnvuPy4bPFPxn/em#81,58,-9\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" onmousewheel=\"\"></iframe></p>\n<p>Enlaces de descarga: <a href=\"media/files/Tema 5: la evolución de los seres vivos.pdf\" title=\"Descarga\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Tema 5 </a>y <a href=\"media/files/Tema 6: Conocer la Tierra y descubrir su pasado.pdf\" title=\"Descarga\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Tema 6</a>.</p>",
@@ -40,8 +40,8 @@
             "date_modified": "2020-01-23T21:40:45+01:00"
         },
         {
-            "id": "https://dmunozv04.netlify.com/esquema-literatura-parcial-2a-evaluacion.html",
-            "url": "https://dmunozv04.netlify.com/esquema-literatura-parcial-2a-evaluacion.html",
+            "id": "https://dmunozv04.github.io/esquema-literatura-parcial-2a-evaluacion.html",
+            "url": "https://dmunozv04.github.io/esquema-literatura-parcial-2a-evaluacion.html",
             "title": "Esquema literatura parcial 2ª evaluación",
             "summary": "Esta vez he decidido cambiar el formato. Por aquí os dejo el esquema en 3 formas diferentes: Link ​Opciones PDF: 1 2 Opción para fácil impresión",
             "content_html": "<p>Esta vez he decidido cambiar el formato. Por aquí os dejo el esquema en 3 formas diferentes: <a href=\"https://my.mindnode.com/xHJqtfsmtKJQpp6yGgx34yUqafRdxa8uenUWwsZh\" target=\"_blank\" rel=\"noopener noreferrer\">Link</a></p>\n<p><iframe width=\"700\" height=\"500\" style=\"border: 1px solid #cccccc; width: 700px; height: 500px;\" src=\"https://my.mindnode.com/xHJqtfsmtKJQpp6yGgx34yUqafRdxa8uenUWwsZh/em#156,283,-9\" iframe=\"\"><span id=\"mce_marker\" >​</span></iframe>Opciones PDF: <a href=\"../../../../../media/files/Literatura%20Examen%203.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">1</a><a href=\"../../../../../media/files/Literatura%20Examen%203.pdf\"></a>       <a href=\"../../../../../media/files/Literatura%20Examen%203(tipo%202).pdf\" target=\"_blank\" rel=\"noopener noreferrer\">2</a></p>\n<p><a href=\"../../../../../../media/files/Literatura%20Examen%203(tipo%203).pdf\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Opción para fácil impresión</a></p>",
@@ -56,12 +56,12 @@
             "date_modified": "2020-01-19T19:04:49+01:00"
         },
         {
-            "id": "https://dmunozv04.netlify.com/resumenes-biologia-examen-2.html",
-            "url": "https://dmunozv04.netlify.com/resumenes-biologia-examen-2.html",
+            "id": "https://dmunozv04.github.io/resumenes-biologia-examen-2.html",
+            "url": "https://dmunozv04.github.io/resumenes-biologia-examen-2.html",
             "title": "Esquemas Biología examen 2",
             "summary": "<p>Estos son los esquemas basados en los resúmenes del profesor José Antonio Gómez. </p>\n",
             "content_html": "<p>Estos son los esquemas basados en los resúmenes del profesor José Antonio Gómez. </p>\n\n<p><a href=\"https://my.mindnode.com/xByxzNpiaaPo9ovejsKE1ahpwQ959x1BtAWgyYxX#87.7,43.0,2\" title=\"Tema 3: Las leyes de la herencia\" target=\"_blank\" rel=\"noopener noreferrer\">Tema 3:</a></p>\n<iframe width=\"800\" height=\"400\" src=\"https://my.mindnode.com/xByxzNpiaaPo9ovejsKE1ahpwQ959x1BtAWgyYxX/em#88,43,2&quot;\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" onmousewheel=\"\"></iframe>\n<p><a href=\"https://my.mindnode.com/YXT4663hvATzS2Ke6RExL2sFgo51GKFwtvqY6W8e\" title=\"Tema 4: Los genes y su manipulación\" target=\"_blank\" rel=\"noopener noreferrer\">Tema 4:</a></p>\n<p><iframe width=\"800\" height=\"400\" src=\"https://my.mindnode.com/YXT4663hvATzS2Ke6RExL2sFgo51GKFwtvqY6W8e/em#87,43,2\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" onmousewheel=\"\"></iframe></p>\n<p>Enlaces de descarga: <a href=\"../../../../../media/files/Tema 3- Las leyes de la herencia.pdf\" title=\"Descarga\">Tema 3 </a>y <a href=\"../../../../../media/files/Tema 4: Los genes y su manipulación.pdf\" title=\"Descarga\">Tema 4</a>.</p>",
-            "image": "https://dmunozv04.netlify.com/media/posts/4/genetica-e1554588448726.jpg",
+            "image": "https://dmunozv04.github.io/media/posts/4/genetica-e1554588448726.jpg",
             "author": {
                 "name": "David"
             },
@@ -73,8 +73,8 @@
             "date_modified": "2019-11-20T21:56:06+01:00"
         },
         {
-            "id": "https://dmunozv04.netlify.com/resumen-literatura-primer-examen-2.html",
-            "url": "https://dmunozv04.netlify.com/resumen-literatura-primer-examen-2.html",
+            "id": "https://dmunozv04.github.io/resumen-literatura-primer-examen-2.html",
+            "url": "https://dmunozv04.github.io/resumen-literatura-primer-examen-2.html",
             "title": "Resumen literatura examen final",
             "summary": "Aquí tenéis el resumen. Usadlo y buena suerte en el examen.",
             "content_html": "<p><a href=\"https://github.com/dmunozv04/files/raw/master/Literatura%20examen%202.pdf\" title=\"Resumen aquí\">Aquí</a> tenéis el resumen. Usadlo y buena suerte en el examen.</p>",
@@ -89,8 +89,8 @@
             "date_modified": "2019-11-13T21:35:39+01:00"
         },
         {
-            "id": "https://dmunozv04.netlify.com/resumen-literatura-primer-examen.html",
-            "url": "https://dmunozv04.netlify.com/resumen-literatura-primer-examen.html",
+            "id": "https://dmunozv04.github.io/resumen-literatura-primer-examen.html",
+            "url": "https://dmunozv04.github.io/resumen-literatura-primer-examen.html",
             "title": "Resumen literatura primer examen",
             "summary": "Aquí tenéis el resumen. Usadlo y buena suerte en el examen.",
             "content_html": "<p><a href=\"https://github.com/dmunozv04/files/raw/master/Literatura%20examen%201.pdf\" title=\"Resumen aquí\">Aquí</a> tenéis el resumen. Usadlo y buena suerte en el examen.</p>\n<iframe width=\"100%\" height=\"600\" src=\"https://cdn.flipsnack.com/widget/v2/widget.html?hash=fcpmykjt4\" seamless=\"seamless\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>",
@@ -105,8 +105,8 @@
             "date_modified": "2019-11-02T12:39:39+01:00"
         },
         {
-            "id": "https://dmunozv04.netlify.com/bienvenido-a-la-pagina.html",
-            "url": "https://dmunozv04.netlify.com/bienvenido-a-la-pagina.html",
+            "id": "https://dmunozv04.github.io/bienvenido-a-la-pagina.html",
+            "url": "https://dmunozv04.github.io/bienvenido-a-la-pagina.html",
             "title": "Bienvenido a la página",
             "summary": "Hola a todos y bienvenidos a mi página web en la que colgaré:resúmenesapuntesinformación interesante.Muchas gracias y disfrutad del contenido",
             "content_html": "<p>Hola a todos y bienvenidos a mi página web en la que colgaré:</p>\n<ul>\n<li>resúmenes</li>\n<li>apuntes</li>\n<li>información interesante.</li>\n</ul>\n<hr>Muchas gracias y disfrutad del contenido",
